@@ -91,7 +91,7 @@ function draw() {
       trex.velocityY = -12 ;
       
     }
-    console.log(trex.y);
+   // console.log(trex.y);
   
     //add gravity
     trex.velocityY = trex.velocityY + 0.8;
